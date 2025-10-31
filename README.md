@@ -36,7 +36,7 @@ O projeto utiliza as seguintes bibliotecas Python:
 ### 1. Clone ou baixe o projeto
 
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/reisvitt/aws-automatic-access.git
 cd aws-access
 ```
 
